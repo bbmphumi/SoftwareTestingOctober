@@ -1,0 +1,2 @@
+# SoftwareTestingOctober
+Practicing CI/CD 
